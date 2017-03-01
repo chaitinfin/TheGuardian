@@ -7,6 +7,8 @@ public class MainActivity extends AppCompatActivity {
 
     //This is another commit
 
+    //This is comment two
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
