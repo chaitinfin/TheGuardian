@@ -8,6 +8,8 @@ public class MainActivity extends AppCompatActivity {
     //This is another commit
 
 
+    //This is new branch
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
